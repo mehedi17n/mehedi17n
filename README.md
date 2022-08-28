@@ -9,11 +9,10 @@ mehedi17n/mehedi17n is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Codeforces Stat Visualization
+# Codeforces Visualization
 
 <a href="https://github.com/mehedi17n/cf-stats">
 <img src="https://raw.githubusercontent.com/mehedi17n/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/mehedi17n/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
 <a href="https://github.com/mehedi17n/cf-stats">
